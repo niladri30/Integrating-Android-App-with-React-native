@@ -52,8 +52,12 @@ I hope this setup helps to easily integrate existing Android application to new 
     `cd Testproject
     react-native run-android`
     
+    ![alt text](https://github.com/niladri30/Integrating-Android-App-with-React-native/blob/master/img1.png)
+    
 
 For, error output on AVD:
+
+![alt text](https://github.com/niladri30/Integrating-Android-App-with-React-native/blob/master/error1.png)
 
     To Solve this below are the required steps:
 
