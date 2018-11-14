@@ -88,7 +88,7 @@ Finally after running the command:
     Once done successfully
 
     Run the command: 
-       `react-native run-android –appFolder “name of the app folder”`
+       `react-native run-android –-appFolder “name of the app folder”`
        
 ## Black screen error:
 
